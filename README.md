@@ -9,8 +9,8 @@
 
 Data Visualizations :
 
-1.
+1]
 <p align="center"><img src='https://i.postimg.cc/bvC35V5F/AirBnB.png'><p align="center">
 
-2.  
+2]  
 <p align="center"><img src='https://i.postimg.cc/tC3Db4f6/CC.png'><p align="center">  
