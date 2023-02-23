@@ -6,7 +6,7 @@ The dashboards allow the user to explore data relationships and patterns, and un
 
 The dashboards are designed to be user-friendly, with intuitive navigation and interactive elements that allow the user to easily interact with the data and explore different aspects of the data.
 
-| **Sr.No** | **DashBoard Name** | **Link** |
+| **Sr.No** | **DashBoard Name** | **Dashboard Links** |
 | -------------------- | :--------------------- |:---------------------------|
 | 01. | AirBnB Dashboard | [AirBnB](https://public.tableau.com/app/profile/shubham3310/viz/AirBnBDashboard_16711046154050/AirBnBDashBoard) |
 | 02. | Credit Card Complaints DashBoard |[Credit Card Complaints DashBoard](https://public.tableau.com/app/profile/shubham3310/viz/CreditCardComplaintsDashboard/Dashboard1) |
