@@ -1,6 +1,6 @@
 # Tableau-Dashboards
 
-This project features two interactive dashboards created using Tableau, which help in analyzing and visualizing complex data in an easy-to-understand format.
+This project features interactive dashboards created using Tableau, which help in analyzing and visualizing complex data in an easy-to-understand format.
 
 The dashboards allow the user to explore data relationships and patterns, and uncover insights that are not immediately apparent from just looking at raw data.
 
